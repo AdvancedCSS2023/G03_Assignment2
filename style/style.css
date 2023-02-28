@@ -14,22 +14,11 @@
 
 html {
   scroll-behavior: smooth;
-  background-color: white;
 }
 
 body {
   max-width: 1440px;
   margin: 0 auto;
-
-  header {
-    overflow: hidden;
-
-    background-color: white;
-
-    position: sticky;
-    top: 0;
-
-    z-index: 99;
 }
 
 
@@ -41,6 +30,17 @@ img {
 
   max-height: 100%;
   max-width: 100%;
+}
+
+header {
+    overflow: hidden;
+
+    background-color: white;
+
+    position: sticky;
+    top: 0;
+
+    z-index: 99;
 }
 
 header ul {
@@ -86,10 +86,14 @@ header img {
 
     margin: 10px 15px 15px 10px;
 
-    width: 10px;
+    width: 50px;
     height: auto;
 }
 
 nav {
     float: right;
+}
+
+div {
+    height: 100vh;
 }
