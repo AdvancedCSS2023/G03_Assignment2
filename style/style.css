@@ -1,12 +1,43 @@
 /* CSS HEX */
---baby-powder: #f5f7f3ff;
---columbia-blue: #bdd2eaff;
---cambridge-blue: #9aac8aff;
---battleship-gray: #939598ff;
---celestial-blue: #4f99ccff;
---fern-green: #48773eff;
---cinnabar: #ef402bff;
+--baby-powder: #f5f7f3;
+--columbia-blue: #bdd2ea;
+--cambridge-blue: #9aac8a;
+--battleship-gray: #939598;
+--celestial-blue: #4f99cc;
+--fern-green: #48773e;
+--cinnabar: #ef402b;
 
+* {
+
+}
+
+.scene {
+
+}
+
+.one {
+
+}
+
+.two {
+
+}
+
+.three {
+
+}
+
+.four {
+
+}
+
+.five {
+
+}
+
+.six {
+    
+}
 
 In Assignment 2 and Assignment 3 you are required to
 create and use a simple Separation of Concerns.
